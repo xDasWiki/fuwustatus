@@ -143,11 +143,11 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
+    - name: Nürnberg
+      description: Webseite, Gameserverhost und Dev Server stehen hier.
       closed: true
-    - name: Empty Category
-    - name: Uncategorized
+    - name: Frankfurt
+      description: Hier steht der Teamspeak3 Server von uns.
       untitled: true
 
   # These are your systems. Change them to
@@ -158,16 +158,14 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
+    - name: Webserver
+      category: Nürnberg
+    - name: Gameserverhost
+      category: Nürnberg
+    - name: Dev Server
+      category: Nürnberg
+    - name: Teamspeak3
+      category: Frankfurt
 
   # What date format to use?
   #
