@@ -148,7 +148,7 @@ params:
       closed: true
     - name: Frankfurt
       description: Hier steht der Teamspeak3 Server von uns.
-      untitled: true
+      closed: true
 
   # These are your systems. Change them to
   # change the amount of components.
