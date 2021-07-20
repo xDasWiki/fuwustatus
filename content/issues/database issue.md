@@ -5,6 +5,7 @@ date: 2021-07-20 22:30:00
 resolved: false
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
+section: disrupted
 affected:
   - Gameserverhost
   - Dev Server
