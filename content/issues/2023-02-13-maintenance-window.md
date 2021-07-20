@@ -12,3 +12,4 @@ section: issue
 ---
 
 Wir arbeiten derzeit an der implimentierung der neuen Status Webseite.
+Dieser Vorgang ist nun abgeschlossen.
