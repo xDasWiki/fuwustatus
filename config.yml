@@ -145,10 +145,10 @@ params:
   categories:
     - name: Nürnberg
       description: Webseite, Gameserverhost und Dev Server stehen hier.
-      closed: true
+      closed: false
     - name: Frankfurt
       description: Hier steht der Teamspeak3 Server von uns.
-      closed: true
+      closed: false
 
   # These are your systems. Change them to
   # change the amount of components.
