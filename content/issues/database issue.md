@@ -8,7 +8,6 @@ severity: disrupted
 affected:
   - Gameserverhost
   - Dev Server
-section: disrupted
 ---
 So wie es aussieht, gibt es derzeit Probleme mit unseren Datenbanken.
 Der Dienst sollte baldmöglichst wieder zur Verfügung stehen.
