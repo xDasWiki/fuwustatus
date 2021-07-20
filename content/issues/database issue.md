@@ -2,7 +2,7 @@
 title: Database logging schlägt fehl
 #date: 24 Feb 21 12:35 +0200
 date: 2021-07-20 22:30:00
-resolved: false
+resolved: true
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 section: issue
